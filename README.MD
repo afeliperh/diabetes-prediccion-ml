@@ -65,24 +65,26 @@ Este modelo fue seleccionado por su capacidad para identificar correctamente cas
 
 ## 📁 Estructura del repositorio
 
+
+```
 diabetes-prediccion-ml/
 ├── data/
-│ ├── diabetes.csv
-│ ├── diabetes_imputado.csv
-│ └── diabetes_imputado_modelado.csv
+│   ├── diabetes.csv
+│   ├── diabetes_imputado.csv
+│   └── diabetes_imputado_modelado.csv
 │
 ├── models/
-│ ├── modelo_xgboost_diabetes.pkl
-│ ├── modelo_diabetes_random_forest.pkl
-│ └── modelo_LogisticRegression_diabetes.pkl
+│   ├── modelo_xgboost_diabetes.pkl
+│   ├── modelo_diabetes_random_forest.pkl
+│   └── modelo_LogisticRegression_diabetes.pkl
 │
 ├── notebooks/
-│ └── diabetes_modelo_final.ipynb
+│   └── diabetes_modelo_final.ipynb
 │
 ├── README.md
 ├── .gitignore
 └── requirements.txt
-
+```
 
 ## 📌 Cómo reproducir
 
